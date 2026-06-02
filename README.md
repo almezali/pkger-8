@@ -17,7 +17,6 @@
 [![GTK](https://img.shields.io/badge/GTK-4.0-green?style=for-the-badge&logo=gnome)](https://gtk.org)
 [![Python](https://img.shields.io/badge/Python-3.13+-yellow?style=for-the-badge&logo=python)](https://python.org)
 [![Fedora](https://img.shields.io/badge/Fedora-Linux-294172?style=for-the-badge&logo=fedora)](https://fedoraproject.org)
-[![License](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)](LICENSE)
 
 <br/>
 
@@ -31,7 +30,6 @@
 
 **PKGER** is a powerful, fully native desktop package manager built with **GTK 4** and **Python 3.13+**, designed specifically for **Fedora Linux** and its derivatives. It provides a clean, modern interface to manage RPM packages, Flatpaks, AppImages, and system repositories — all from a single window.
 
-Built and compiled with **Nuitka** for optimal performance, PKGER delivers a snappy, responsive experience while handling complex package operations in the background without freezing the UI.
 
 ---
 
@@ -192,18 +190,11 @@ Contributions, bug reports, and feature requests are welcome!
 - Initial public release
 - GTK 4 native UI (GTK 3 removed)
 - DNF 5 (`dnf5`) primary backend with DNF 4 fallback
-- Nuitka standalone/onefile build support
 - Unified search across all package sources
 - Security advisory enrichment for pending updates
 - Full AppImage lifecycle management
 - Repository presets (RPM Fusion Free + Nonfree)
 - `sudo` and `doas` privilege escalation support
-
----
-
-## 📜 License
-
-This project is released under the [MIT License](LICENSE).
 
 ---
 
