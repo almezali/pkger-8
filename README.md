@@ -13,9 +13,8 @@
 
 **A modern, native GTK 4 package manager for Fedora Linux and its derivatives**
 
-[![Version-1.0.1](https://img.shields.io/badge/version-1.0.1-blue?style=for-the-badge&logo=linux)](https://github.com/almezali/pkger-8/releases/tag/1.0.1)
-[![Version-1.0.2](https://img.shields.io/badge/version-1.0.2-red?style=for-the-badge&logo=linux)]
-(https://github.com/almezali/pkger-8/releases/tag/1.0.2)
+[![Version](https://img.shields.io/badge/version-1.0.1-blue?style=for-the-badge&logo=linux)](https://github.com/almezali/pkger-8/releases/tag/1.0.1)
+[![Version](https://img.shields.io/badge/version-1.0.2-red?style=for-the-badge&logo=linux)](https://github.com/almezali/pkger-8/releases/tag/1.0.2)
 [![GTK](https://img.shields.io/badge/GTK-4.0-green?style=for-the-badge&logo=gnome)](https://gtk.org)
 [![Python](https://img.shields.io/badge/Python-3.13+-yellow?style=for-the-badge&logo=python)](https://python.org)
 [![Fedora](https://img.shields.io/badge/Fedora-Linux-294172?style=for-the-badge&logo=fedora)](https://fedoraproject.org)
